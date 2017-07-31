@@ -1,11 +1,11 @@
 {
   "name": "pollonjs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A lightweight library to handle general purpose polling",
-  "main": "./lib/polly.js",
+  "main": "./lib/pollon.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codiceplastico/...."
+    "url": "https://github.com/CodicePlastico/pollon"
   },
   "keywords": ["poller", "polling", "poll"],
   "author": "Paolo Laurenti",
